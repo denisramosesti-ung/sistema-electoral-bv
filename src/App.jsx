@@ -163,7 +163,7 @@ const App = () => {
               Sistema Electoral
             </h1>
             <p className="text-brand-200 text-sm mt-1">
-              Gestión de Votantes — SL 2026
+              Gestión de Votantes
             </p>
           </div>
 
